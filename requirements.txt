@@ -21,7 +21,7 @@ datasets==3.2.0
 dbus-python==1.2.18
 dill==0.3.8
 distro==1.7.0
-distro-info==1.1+ubuntu0.2
+# distro-info==1.1+ubuntu0.2
 exceptiongroup==1.2.2
 filelock==3.17.0
 frozenlist==1.5.0
